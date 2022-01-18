@@ -1,0 +1,1 @@
+<img decoding="async" width="800" height="86" src=" {{ asset('Creativeheads_logo_hvit.png') }}" class="attachment-large size-large" alt="">
